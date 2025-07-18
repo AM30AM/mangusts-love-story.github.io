@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    font-size: 16px;
+}
+
+body {
+    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 158, 199, 1) 50%);
+}
+
+.bd h1 {
+    text-align: right;
+    font-size: 40px;
+    background-color: #001957;
+    border-radius: 5px;
+    padding: 12px 23px;
+    margin-top: 70px;
+    margin-right: 300px;
+}
+
+.bd h2 {
+     text-align: right;
+    font-size: 40px;
+    margin-top: 15px;
+    margin-right: 305px;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-bottom: 100px;
+}
+
+.block p {
+    font-size: 31px;
+    text-align: center;
+    width: 500px;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+.block img {
+    width: 600px;
+    border-radius: 15px;
+}
+
+.blue {
+    background-color: #001957;
+    width: 100%;
+    height: 15px;
+}
+
+.block-2 {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 300px;
+    margin-bottom: 15spx;
+}
+
+.block-2 p {
+    font-size: 41px;
+    text-align: center;
+    width: 500px;
+}
+
+.block-2 img{
+    width: 400px;
+    margin-right: 50px;
+}
+
+.photoplen {
+    background-color: #001957;
+    text-align: center;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.block-3 {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 180px;
+    margin-bottom: 100px;
+}
+
+.block-3 img {
+    width: 500px;
+    margin-right: 150px;
+    border-radius: 15px;
+}
+
+.video {
+   margin-top: 50px;
+   margin-left: 500px;
+}
+
+.video video{
+    width: 500px;
+    border-radius: 15px;
+}
+
+.rospis h1{
+     text-align: left;
+    font-size: 40px;
+    background-color: #001957;
+    border-radius: 5px;
+    padding: 12px 23px;
+    margin-top: 80px;
+    margin-left: 300px;
+}
+
+.rospis h2 {
+     font-size: 40px;
+    margin-top: 25px;
+    margin-left: 305px;
+}
+
+.rospis .block p {
+    margin-left: 80px;
+}
+
+.rospis .block img {
+    margin-left: 80px;
+}
+
+.btn {
+    font-size: 31px;
+    color: #fff;
+    background-color: #001957;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    padding: 12px 23px;
+    margin: 0px 300px;
+    transition: all 500ms ease;
+    margin-bottom: 100px;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+}

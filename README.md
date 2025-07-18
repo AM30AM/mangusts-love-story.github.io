@@ -1,1 +1,1 @@
-# mangusts-love-story.github.io
+# mangusts-love-story
